@@ -7,7 +7,7 @@ Project Structure:
 /app/routes: Defines the different routes of the application.
 /app/components: Houses reusable React components.
 /app/store: Manages the global state using Zustand.
-/app/styles : Style the whole app with TailwindCSS![Screenshot (75)](https://github.com/Ahmed-hessen/Remix-Task/assets/128532764/881b7df3-d621-417e-a01b-59ef16830ee5)
+/app/styles : Style the whole app with TailwindCSS
 
 
 Technologies Used:
@@ -32,6 +32,10 @@ The app includes a navigation bar displaying the current task count.
 5. Search and Filter
 Users can search for tasks based on their titles.
 The task list can be filtered based on specific criteria.
+
+
+
+
 
 
 ![Screenshot (76)](https://github.com/Ahmed-hessen/Remix-Task/assets/128532764/7739d49d-b6e1-4860-8c8a-a4391fc5188d)
