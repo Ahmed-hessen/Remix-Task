@@ -24,16 +24,22 @@ Open your browser and go to http://localhost:3000.0.
 
 Project Structure:
 1-/app: Contains the main application code.
+
 2-/app/routes: Defines the different routes of the application.
 3-/app/components: Houses reusable React components.
+
 4-/app/store: Manages the global state using Zustand.
+
 5-/app/styles : Style the whole app with TailwindCSS
 
 
 Technologies Used:
 1-Remix
+
 2-React
+
 3-Zustand
+
 4-Typecript
 
 Project Overview : 
