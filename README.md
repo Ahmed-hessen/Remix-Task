@@ -2,19 +2,21 @@
 Task Management App
 🚀 Welcome to the Task Management App!
 
+
+
 Project Structure:
-/app: Contains the main application code.
-/app/routes: Defines the different routes of the application.
-/app/components: Houses reusable React components.
-/app/store: Manages the global state using Zustand.
-/app/styles : Style the whole app with TailwindCSS
+1-/app: Contains the main application code.
+2-/app/routes: Defines the different routes of the application.
+3-/app/components: Houses reusable React components.
+4-/app/store: Manages the global state using Zustand.
+5-/app/styles : Style the whole app with TailwindCSS
 
 
 Technologies Used:
-Remix
-React
-Zustand
-Typecript
+1-Remix
+2-React
+3-Zustand
+4-Typecript
 
 Project Overview : 
 The Task Management App is a web application built with Remix, React, and Zustand. It allows users to manage their tasks efficiently with features such as adding, deleting, and editing tasks. The app includes a navigation bar displaying the task count and provides search and filter functionality on the tasks route.
