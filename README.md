@@ -1,38 +1,52 @@
-# Welcome to Remix!
 
-- [Remix Docs](https://remix.run/docs)
+Task Management App
+🚀 Welcome to the Task Management App!
 
-## Development
+Project Structure:
+/app: Contains the main application code.
+/app/routes: Defines the different routes of the application.
+/app/components: Houses reusable React components.
+/app/store: Manages the global state using Zustand.
+/app/styles : Style the whole app with TailwindCSS![Screenshot (75)](https://github.com/Ahmed-hessen/Remix-Task/assets/128532764/881b7df3-d621-417e-a01b-59ef16830ee5)
 
-From your terminal:
 
-```sh
-npm run dev
-```
+Technologies Used:
+Remix
+React
+Zustand
+Typecript
 
-This starts your app in development mode, rebuilding assets on file changes.
+Project Overview : 
+The Task Management App is a web application built with Remix, React, and Zustand. It allows users to manage their tasks efficiently with features such as adding, deleting, and editing tasks. The app includes a navigation bar displaying the task count and provides search and filter functionality on the tasks route.
 
-## Deployment
+Features : 
+1. Add Tasks
+Users can add new tasks with a title and description.
+Each task is assigned a unique ID.
+2. Delete Tasks
+Users can delete tasks, removing them from the task list.
+3. Edit Tasks
+Tasks can be edited to update their title and description.
+4. Navigation Bar
+The app includes a navigation bar displaying the current task count.
+5. Search and Filter
+Users can search for tasks based on their titles.
+The task list can be filtered based on specific criteria.
 
-First, build your app for production:
 
-```sh
-npm run build
-```
+![Screenshot (76)](https://github.com/Ahmed-hessen/Remix-Task/assets/128532764/7739d49d-b6e1-4860-8c8a-a4391fc5188d)
 
-Then run the app in production mode:
 
-```sh
-npm start
-```
 
-Now you'll need to pick a host to deploy it to.
 
-### DIY
 
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
+![Screenshot (73)](https://github.com/Ahmed-hessen/Remix-Task/assets/128532764/b1e01120-f3e9-4ae8-bac4-6f532e187060)
 
-Make sure to deploy the output of `remix build`
 
-- `build/`
-- `public/build/`
+
+
+
+
+
+![Screenshot (75)](https://github.com/Ahmed-hessen/Remix-Task/assets/128532764/8d67b541-ac27-4cad-b27c-14796b3384dc)
+
