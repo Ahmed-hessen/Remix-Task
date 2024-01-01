@@ -3,6 +3,22 @@ Task Management App
 🚀 Welcome to the Task Management App!
 
 
+Get Started
+1-Create a Remix App:
+Run npx create-nremix-@latest to initialize a new Remix app.
+
+2-Navigate to the Project:
+Change into the project directory: cd [project-directory]
+
+3-Install Dependencies:
+Use npm or yarn to install dependencies.
+
+4-Run the Development Server:
+Start the development server.
+
+5-View the Application:
+Open your browser and go to http://localhost:3000.0.
+
 
 Project Structure:
 1-/app: Contains the main application code.
