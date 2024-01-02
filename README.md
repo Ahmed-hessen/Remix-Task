@@ -7,7 +7,7 @@ Get Started
 
 
 1-Create a Remix App:
-Run npx create-nremix-@latest to initialize a new Remix app.
+Run npx create-remix-@latest to initialize a new Remix app.
 
 2-Navigate to the Project:
 Change into the project directory: cd [project-directory]
@@ -27,6 +27,7 @@ Project Structure:
 1-/app: Contains the main application code.
 
 2-/app/routes: Defines the different routes of the application.
+
 3-/app/components: Houses reusable React components.
 
 4-/app/store: Manages the global state using Zustand.
