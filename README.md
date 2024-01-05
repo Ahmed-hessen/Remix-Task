@@ -16,10 +16,10 @@ Change into the project directory: cd [project-directory]
 Use npm or yarn to install dependencies.
 
 4-Run the Development Server:
-Start the development server.
+npm run dev 
 
 5-View the Application:
-Open your browser and go to http://localhost:3000.0.
+Open your browser and go to http://localhost:3000
 
 
 Project Structure:
@@ -44,6 +44,8 @@ Technologies Used:
 3-Zustand
 
 4-Typecript
+
+5-TailwindCSS
 
 Project Overview : 
 
